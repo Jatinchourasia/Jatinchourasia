@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on improving my coding skills
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make sketches and to watch animes
 
 ---
