@@ -7,22 +7,11 @@
 ### Hi there, I'm Jatin 😉
 
 ## I'm a Student and a Developer!
-
-- 🔭 I’m currently working on improving my coding skills
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make sketches and to watch animes
 
 ---
 
-### Connect with me:
-
-<a href="https://www.instagram.com/jatin__chourasia/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="www.linkedin.com/in/jatin-chourasia"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/asshu.chourasia"> <img src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" width="25px;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br>
 <br />
 
 ---
