@@ -6,8 +6,7 @@
 
 ### Hi there, I'm Jatin 😉
 
-## I'm a Student and a Developer!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+## I'm a Full-stack Developer! 
 - ⚡ Fun fact: I love to make sketches and to watch animes
 
 ---
